@@ -1,6 +1,13 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
+<img src="https://raw.githubusercontent.com/srg1995/srg1995/output/snake.svg" alt="Snake animation" />
+
 ###
+
+<img src="https://raw.githubusercontent.com/srg1995/srg1995/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
